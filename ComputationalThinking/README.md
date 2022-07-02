@@ -1,6 +1,6 @@
 <h1>Computational Thinking</h1>
 
-<img stye="display: block; margin-left: auto; margin-right: auto;" rc="https://dataismo.com.br/wp-content/uploads/2022/02/nazareconfusamatematica.gif">
+<img stye="display: block; margin-left: auto; margin-right: auto;" src="https://dataismo.com.br/wp-content/uploads/2022/02/nazareconfusamatematica.gif">
 
 <h2>Overview</h2>
 
