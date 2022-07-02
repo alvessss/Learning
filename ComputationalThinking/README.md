@@ -1,7 +1,6 @@
-<p><h1>Computational Thinking</h1>
+<h1>Computational Thinking</h1>
 
 <img src="https://dataismo.com.br/wp-content/uploads/2022/02/nazareconfusamatematica.gif">
-</p>
 
 <h2>Overview</h2>
 
