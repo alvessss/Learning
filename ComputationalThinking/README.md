@@ -5,12 +5,10 @@
 <h2>Overview</h2>
 
 <p>
-	Computational Thinking is an approach that looks for solve problem through several analysis such dissolve the problem into small and easiest problems (<strong>Problem Decomposition</strong>) and find patterns to predict possible behaviors (<strong>Pattern Recognition</strong>). After trace the whole problem it's needed a well detailed step-by-step showing how to solve the problem. That step-by-step is the main pillar of the Computational Thinking and its called <strong>Algorithm</strong>. Great algorithms are written to be used multiple times and in different scenarios so they must be generalists and versatile (<strong>Abstraction</strong>).
+	Computational Thinking is an approach that looks for solve problem through several analysis such dissolve the problem into small and easiest problems and find patterns to predict possible behaviors. After trace the whole problem it's needed a well detailed step-by-step showing how to solve the problem so anyone can replicate those steps. That step-by-step is the main pillar of the Computational Thinking and its called Algorithm. The Programming Languages, basicly, are responsible to translate those algorithms written by the programmers into computer instructions. Great algorithms are written to be used multiple times and in different scenarios so they must be generalists and versatile.
 </p>
 
-<p>
-	All the concepts above are rudimentary in the Computational Thinking. Dont be lazy and keep reading.
-</p>
+<br>
 
 <h2>Problem Decomposition</h2>
 
