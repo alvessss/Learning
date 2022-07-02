@@ -21,18 +21,20 @@
 		<p>
 			That is not the biggest problem in the world but we have some variables to consider so lets solve part by part.<br>
 			You work 8 hours per day; The percurse to your work take 30 minutes and you sleep  7 hours everyday. So:<br>
+			<br>
 			H_WORK = 8;<br>
 			H_SLEEP = 7;<br>
 			H_PERCUSE = 1;<br>
 			H_COURSE = 200;<br>
 			<br>
 			HOURS_AVAILABLE = 24 - (H_WORK + H_SLEEP + H_PERCURSE);<br>
-								 = 24 - 16;<br>
-								 = 8;<br>
+			HOURS_AVAILABLE = 24 - 16;<br>
+			HOURS_AVAILABLE = 8;<br>
 			<br>
 			DAYS = H_COURSE / HOURS_AVAILABLE;<br>
-				  = 200 / 8;<br>
-				  = 25;<br>
+			DAYS = 200 / 8;<br>
+		   DAYS = 25;<br>
+			<br>
 			You will kill it in 25 days! Don't forget to drink water<br>
 		</p>
 	</li>
